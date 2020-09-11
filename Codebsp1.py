@@ -12,6 +12,6 @@
  # Trainieren des neuronalen Netzwerkes
  model.fit(inputMuster, outputMuster, epochs=1000)
  
- # Testen des neuronalen Netzwerkes mit Testdaten
+ # Testen des neuronalen Netzwerkes mit Testdaten hier 22
  testMuster = [22]
  print(model.predict(testMuster))
