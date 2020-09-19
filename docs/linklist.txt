@@ -3,9 +3,9 @@
 
 #1
 Künstliche Intelligenz und maschinelles Lernen für Einsteiger
-  https://open.hpi.de/courses/kieinstieg2020
-  Mehrwöchiger Kurs mit rel. geringem Zeitaufwand.
+    https://open.hpi.de/courses/kieinstieg2020
+    Mehrwöchiger Kurs mit rel. geringem Zeitaufwand.
 
 #2
 Praktische Einführung in Deep Learning für Computer Vision
-
+    https://open.hpi.de/courses/neuralnets2020/resume
