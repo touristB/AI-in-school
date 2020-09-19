@@ -1,11 +1,17 @@
 
 
 
-#1
+#1 HPI Kurs
 Künstliche Intelligenz und maschinelles Lernen für Einsteiger
     https://open.hpi.de/courses/kieinstieg2020
     Mehrwöchiger Kurs mit rel. geringem Zeitaufwand.
 
-#2
+#2 HPI Kurs
 Praktische Einführung in Deep Learning für Computer Vision
     https://open.hpi.de/courses/neuralnets2020/resume
+    
+#3 irights / Siemensstiftung   
+Medienpaket zum Thema Künstliche Intelligenz: 
+    https://irights-lab.de/kipaket-2/
+Leitfaden zum Medienpaket: 
+    https://medienportal.siemens-stiftung.org/de/leitfaden-zum-medienpaket-kuenstliche-intelligenz-112295    
