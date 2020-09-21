@@ -1,3 +1,6 @@
+ # 21.9.2020
+ # A. Schindler
+ 
  import tensorflow as tf
  
  # Erstellen der Trainingsdaten
