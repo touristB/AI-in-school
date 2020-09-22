@@ -41,7 +41,16 @@ Dozenten: Alexander Dietz (Verbund 4) Alexander Schindler (Verbund 2)
 #9 Unterrichtsmaterial AppCamps zur KI:
     https://appcamps.de/unterrichtsmaterial/kuenstliche-intelligenz/
 
-#10 Film „Eine kurze Geschichte der Künstlichen Intelligenz“:
+#11 Google Colab
+    https://colab.research.google.com
+    
+#12
+    https://teachablemachine.withgoogle.com/
+    
+#13 TensorFlow in Aktion
+    playground.tensorflow.org
+    
+#14 Film „Eine kurze Geschichte der Künstlichen Intelligenz“:
     https://www.youtube.com/watch?v=09LotPHTZtU
 
 
