@@ -1,17 +1,49 @@
+Linkliste 
+12. Informatiktag Berlin-Brandenburg 2020
+22. September 2020
+Workshop 1 Programmieren mit KI im Informatikunterricht
+Dozenten: Alexander Dietz (Verbund 4) Alexander Schindler (Verbund 2)
 
 
+#1 Material Medien in die Schulen –> Machine Learning
+    Herausgeber: Google Zukunftswerkstatt, Freiwillige Selbstkontrolle Multimedia, Freiwillige Selbstkontrolle Fernsehen, Autoren: Junge Tüftler
+    https://www.medien-in-die-schule.de/unterrichtseinheiten/machine-learning-intelligente-maschinen/
 
-#1 HPI Kurs
-Künstliche Intelligenz und maschinelles Lernen für Einsteiger
+#2 HPI Kurs
+    Künstliche Intelligenz und maschinelles Lernen für Einsteiger
     https://open.hpi.de/courses/kieinstieg2020
     Mehrwöchiger Kurs mit rel. geringem Zeitaufwand.
 
-#2 HPI Kurs
-Praktische Einführung in Deep Learning für Computer Vision
+#3 HPI Kurs
+    Praktische Einführung in Deep Learning für Computer Vision
     https://open.hpi.de/courses/neuralnets2020/resume
-    
-#3 irights / Siemensstiftung   
-Medienpaket zum Thema Künstliche Intelligenz: 
+
+#4 irights / Siemensstiftung   
+    Medienpaket zum Thema Künstliche Intelligenz: 
     https://irights-lab.de/kipaket-2/
-Leitfaden zum Medienpaket: 
+    Leitfaden zum Medienpaket: 
     https://medienportal.siemens-stiftung.org/de/leitfaden-zum-medienpaket-kuenstliche-intelligenz-112295    
+
+#5 Google Quickdraw quickdraw.withgoogle.com
+    Erkennen von Zeichnungen durch eine KI. Gut geeignet als Einstieg in das Thema.
+    Überblick Unterrichtsmaterialien KI im Unterricht (Padlet)
+    https://padlet.com/m_siemering_edu/721td7ib2624
+
+#6 Unterrichtsmaterial Cognimates:
+    http://cognimates.me/ (siehe Arbeitsblätter aus dem WS)
+    
+#7 TensorFlow API python
+    https://www.tensorflow.org/api_docs/python/tf/
+
+#8 Bilderkennung mit der Software Clarifai: 
+    https://www.clarifai.com/demo
+    
+#9 Unterrichtsmaterial AppCamps zur KI:
+    https://appcamps.de/unterrichtsmaterial/kuenstliche-intelligenz/
+
+#10 Film „Eine kurze Geschichte der Künstlichen Intelligenz“:
+    https://www.youtube.com/watch?v=09LotPHTZtU
+
+
+
+
