@@ -1,7 +1,10 @@
 Linkliste zum KI programieren im Unterricht
-9. Dezember 2020
-Dozent: Alexander Schindler (Verbund 2)
+Dozent: Alexander Schindler (iMINT-Akademie)
 
+
+## Material bei der iMINT-Akademie
+    https://bildungsserver.berlin-brandenburg.de/unterricht/faecher/mathematik-naturwissenschaften/mint/i-mint-akademie/unterrichtsmaterialien-zum-download
+    oder imint.de
 
 ## Material Medien in die Schulen –> Machine Learning
     Herausgeber: Google Zukunftswerkstatt, Freiwillige Selbstkontrolle Multimedia, Freiwillige Selbstkontrolle Fernsehen, Autoren: Junge Tüftler
