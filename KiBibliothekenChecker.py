@@ -59,8 +59,6 @@ except:
 try:
     import tensorflow_docs as tfdocs
     #print (tfdocs.__doc__)
-    #import tensorflow_docs.plots
-    #import tensorflow_docs.modeling
     print ("Bibliothek:: import tensorflow_docs as tfdocs         ver.: --OK")
 except:
     print("ERROR: import tensorflow_docs")
@@ -75,9 +73,46 @@ except:
     print("ERROR: import tensorboard")
 
 
+try:
+    import tf_agents as tfa
+    print ("Bibliothek:: import tf_agents as tfa                  ver.:", tfa.__version__)
+    #from tf_agents.agents.dqn import dqn_agent
+except:
+    print("ERROR: import tf_agents try: pip install tf-agents")
+
+
+
+
+# für RL learning
+try:
+    import gymnasium as gym
+    print("Bibliothek:: import gymnasium as gym                  ver.:", gym.__version__)
+except:
+    print("ERROR: import gymnasium")
+
+
+try:
+    import stable_baselines3 as sb3
+    print("Bibliothek:: import stable_baselines3 as sb3          ver.:", sb3.__version__)
+except:
+    print("ERROR: stable_baselines")
+
+
+# pytorch für stable_baselines3 
+try:
+    import torch as tor
+    print("Bibliothek:: import torch as tor                      ver.:", tor.__version__)
+except:
+    print("ERROR: import torch")
+    
+
+try:
+    import sklearn
+    print ("Bibliothek:: import sklearn                           ver.:", sklearn.__version__)
+except:
+    print ("ERROR: import sklearn")
+
 #import grpcio
-
-
 
 # deprecated: keras ist Teil von Tensorflow
 #try:
@@ -96,14 +131,8 @@ except:
 
 
 
-try:
-    import sklearn
-    print ("Bibliothek:: import sklearn                           ver.:", sklearn.__version__)
-except:
-    print ("ERROR: import sklearn")
 
-
-# Mathe
+# Datenstrukturen
 try:
     import pandas as pd
     print ("Bibliothek:: import pandas as pd                      ver.:", pd.__version__)
@@ -138,19 +167,11 @@ except:
 
 
 try:
-    import matplotlib.pyplot
-    print ("Bibliothek:: import matplotlib.pyplot                 ver.: -- OK")
-    from matplotlib import pyplot as plt
-    print ("Bibliothek:: from matplotlip import pyplot as plt     ver.: -- OK")
-except:
-    print ("ERROR: import matplotlib.pyplot")
-
-
-try:
     import imageio
     print ("Bibliothek:: import imageio                           ver.:", imageio.__version__)
 except:
     print ("ERROR: import imageio")
+
 
 try:
     import glob
@@ -158,10 +179,16 @@ try:
 except:
     print ("ERROR: import glob")
 
+
+try:
+    import IPython as ipt
+    print ("Bibliothek:: import IPython as ipt                    ver.:", ipt.__version__)
+except:
+    print ("ERROR: import IPython")
+
+
 try:
     from IPython.display import clear_output
-    import IPython as ipt
-    print ("Bibliothek:: IPython                                  ver.:", ipt.__version__)
     print ("Bibliothek:: from IPython.display import clear_output ver.: -- OK")
 except:
     print ("ERROR: import IPython.display")
@@ -213,7 +240,7 @@ except:
 
 try:
     import langdetect
-    print ("Bibliothek:: import langdetect")
+    print ("Bibliothek:: import langdetect                        ver.: -- OK")
 except:
     print ("ERROR: import langdetect")
 
